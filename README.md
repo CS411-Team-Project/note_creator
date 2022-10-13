@@ -11,7 +11,7 @@ The users must create a personal account and log in to access their own files. W
 ## What NoteCreator Will Be Built With
 ### APIs to Transcribe and Create Notes
 - Twilio API: https://www.twilio.com/docs/usage/api
-- VOSK
+- VOSK: Offline speech recognition toolkit that will be installed.
 - Grammarly API: https://developer.grammarly.com/docs/api/
 
 ### Front-End Architecture
